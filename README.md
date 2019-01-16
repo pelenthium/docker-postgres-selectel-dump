@@ -1,4 +1,3 @@
-=========================
 Docker PostgreSQL Backup To Selectel Cloud Storage
 =========================
 
